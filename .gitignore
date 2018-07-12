@@ -1,7 +1,1 @@
-cmake-build-debug
-.idea
-
-
-*.xml
-*.iml
-*.cmake
+.vs
